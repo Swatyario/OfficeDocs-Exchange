@@ -24,6 +24,50 @@ Exchange admin center now uses a new portal at [https://admin.exchange.microsoft
 
 For now, it is possible to switch back to the existing EAC (often called the "classic" EAC), but at a future date, the classic EAC will be retired.
 
+## September 2020 (Ignite Release) 
+
+Here are some of the changes and new features we introduced in the modern EAC in September 2020. 
+
+### Groups – Creation and Management 
+
+The admins can now create Groups from the modern EAC. Currently, they can create and manage M365 groups, Distribution groups and Mail-enabled Security groups.
+
+3 types of Groups that the admins can now create and manage are:  
+
+**M365 Groups** – They are the recommended Group type and they allow for effective collaboration by providing them shared email and a shared workplace. 
+
+**Distribution Groups** – They are the most used Group type and they allow you to send email to all members of the list. 
+
+**Mail-enabled Security Groups** – They give the members access to various resources like OneDrive, SharePoint and admin roles. 
+
+### Normal/Compact list view in Groups 
+
+The admins can now choose to view the list of groups in normal or compact list view way. Compact list option allows the admins to view more entries per page. 
+
+### Naming Policy for Groups 
+
+The admins now have command over the Group naming policy. They can now add prefixes and suffixes for the future groups that will be created. They can also block specific words from being used in group names and aliases. 
+
+### Upgrade Distribution Group 
+
+The admins can now upgrade the distribution groups into the recommended Microsoft 365 (previously O 365 groups) with few clicks. 
+
+### Opt-in/out 
+
+The users now have a single click Opt-in toggle button available in classic and the new Exchange Admin Center. The button allows for easy navigation between two portals and now users can try and access the new portal seamlessly. 
+
+### Support Assistant 
+
+The admins can now get their queries resolved without going anywhere else. The support assistant feature allows users to resolve the queries without leaving the EAC window. In case the user is not satisfied with the provided solution, the user can even raise a ticket and register their issues. 
+
+### Educational Navigation Video 
+
+An educational navigation video is now available on the very first tile ‘Training and Guide’ in the new EAC portal. The video allows the users to understand the basic navigation of the new portal. You can also access the video here: https://www.microsoft.com/en-us/videoplayer/embed/RE4FqDa. 
+
+### Recipients – MS Document Updated 
+
+Going forward with helping the users with their queries related to new Exchange Admin Center portal, the Microsoft documentation is also complete for the high traffic pages under Recipients.
+
 ## July 2020
 
 Here are some of the changes and new features we introduced in the modern EAC in July 2020. 
@@ -34,11 +78,11 @@ Exchange admins can now use the existing dashboard to choose from new variety of
 
 Discover and understand some more trends related to mail flow in your Microsoft 365 or Office 365 organization. The following report were already available in the Security & Compliance Center (SCC) portal but are now available in the EAC for added convenience.
 
-Top domain mail-flow status report: To identify and troubleshoot domains with mail flow issues. [Learn more](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-domain-mail-flow-status-insight).
+**Top domain mail-flow status report**: To identify and troubleshoot domains with mail flow issues. [Learn more](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-domain-mail-flow-status-insight).
 
-Queued messages report: To check those messages that are queued for more than 1 hour and were sent through connectors from your Microsoft cloud org. [Learn more](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-queue-alerts-and-queues).
+**Queued messages report**: To check those messages that are queued for more than 1 hour and were sent through connectors from your Microsoft cloud org. [Learn more](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-queue-alerts-and-queues).
 
-SMTP AUTH clients report: To check for unusual activity and TLS used by clients or devices using SMTP AUTH. SMTP AUTH client submission protocol only offers basic authentication and is a less-secure protocol used by devices, such as printers, to send email messages. [Learn more](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-smtp-auth-clients-report).
+**SMTP AUTH clients report**: To check for unusual activity and TLS used by clients or devices using SMTP AUTH. SMTP AUTH client submission protocol only offers basic authentication and is a less-secure protocol used by devices, such as printers, to send email messages. [Learn more](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-smtp-auth-clients-report).
 
 :::image type="content" source="media/whats-new-2020-07-mail-flow-reports.png" alt-text="Screen capture of manager and direct reports":::
 
