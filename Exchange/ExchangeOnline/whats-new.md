@@ -36,7 +36,7 @@ Three types of groups that the admins can now create and manage are:
 
 **Microsoft 365 Groups**: They are the recommended group type and they allow for effective collaboration by providing shared email and a shared workplace. 
 
-**Distribution Groups** – They are the most used Group type and they allow you to send email to all members of the list. 
+**Distribution groups**: They are the most used group type and they allow you to send email to all members on the list. 
 
 **Mail-enabled Security Groups** – They give the members access to various resources like OneDrive, SharePoint and admin roles. 
 
