@@ -46,7 +46,7 @@ The admins can now choose to view the list of groups in normal or compact list v
 
 ### Naming policy for groups 
 
-The admins now have command over the Group naming policy. They can now add prefixes and suffixes for the future groups that will be created. They can also block specific words from being used in group names and aliases. 
+The admins now have command over the group naming policy. They can now add prefixes and suffixes for the future groups that will be created. They can also block specific words from being used in group names and aliases. 
 
 ### Upgrade distribution groups 
 
