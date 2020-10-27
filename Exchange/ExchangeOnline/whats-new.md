@@ -62,7 +62,7 @@ The admins can now get their queries resolved without going anywhere else. The s
 
 ### Educational Navigation Video 
 
-An educational navigation video is now available on the very first tile ‘Training and Guide’ in the new EAC portal. The video allows the users to understand the basic navigation of the new portal. You can also access the video here: https://www.microsoft.com/en-us/videoplayer/embed/RE4FqDa. 
+An educational navigation video is now available on the very first tile "Training and Guide" in the new EAC portal. The video allows the users to understand the basic navigation of the new portal. You can also access the video [here](https://www.microsoft.com/videoplayer/embed/RE4FqDa.
 
 ### Recipients – Microsoft documents updated 
 
