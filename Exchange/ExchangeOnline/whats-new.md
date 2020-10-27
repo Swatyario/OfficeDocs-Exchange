@@ -24,7 +24,7 @@ Exchange admin center now uses a new portal at [https://admin.exchange.microsoft
 
 For now, it is possible to switch back to the existing EAC (often called the "classic" EAC), but at a future date, the classic EAC will be retired.
 
-## September 2020 (Ignite Release) 
+## September 2020 (Ignite release) 
 
 Here are some of the changes and new features we introduced in the modern EAC in September 2020. 
 
