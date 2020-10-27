@@ -56,7 +56,7 @@ The admins can now upgrade the distribution groups into the recommended Microsof
 
 The users now have a single click **Opt-in** toggle button available in the classic and the new Exchange admin center. The button allows for easy navigation between two portals and users can now access the new portal seamlessly. 
 
-### Support Assistant 
+### Support assistant 
 
 The admins can now get their queries resolved without going anywhere else. The support assistant feature allows users to resolve the queries without leaving the EAC window. In case the user is not satisfied with the provided solution, the user can even raise a ticket and register their issues. 
 
