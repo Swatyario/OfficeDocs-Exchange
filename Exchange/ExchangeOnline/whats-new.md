@@ -54,7 +54,7 @@ The admins can now upgrade the distribution groups into the recommended Microsof
 
 ### Opt-in/out 
 
-The users now have a single click Opt-in toggle button available in classic and the new Exchange Admin Center. The button allows for easy navigation between two portals and now users can try and access the new portal seamlessly. 
+The users now have a single click **Opt-in** toggle button available in the classic and the new Exchange admin center. The button allows for easy navigation between two portals and users can now access the new portal seamlessly. 
 
 ### Support Assistant 
 
