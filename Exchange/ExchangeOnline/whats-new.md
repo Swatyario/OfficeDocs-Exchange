@@ -38,7 +38,7 @@ Three types of groups that the admins can now create and manage are:
 
 **Distribution groups**: They are the most used group type and they allow you to send email to all members on the list. 
 
-**Mail-enabled Security Groups** – They give the members access to various resources like OneDrive, SharePoint and admin roles. 
+**Mail-enabled security groups**: They give the members access to various resources like OneDrive, SharePoint, and admin roles. 
 
 ### Normal/Compact list view in Groups 
 
