@@ -34,7 +34,7 @@ The admins can now create groups from the modern EAC. Currently, they can create
 
 Three types of groups that the admins can now create and manage are:  
 
-**M365 Groups** – They are the recommended Group type and they allow for effective collaboration by providing them shared email and a shared workplace. 
+**Microsoft 365 Groups**: They are the recommended group type and they allow for effective collaboration by providing shared email and a shared workplace. 
 
 **Distribution Groups** – They are the most used Group type and they allow you to send email to all members of the list. 
 
