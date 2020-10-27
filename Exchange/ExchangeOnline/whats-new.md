@@ -48,7 +48,7 @@ The admins can now choose to view the list of groups in normal or compact list v
 
 The admins now have command over the Group naming policy. They can now add prefixes and suffixes for the future groups that will be created. They can also block specific words from being used in group names and aliases. 
 
-### Upgrade Distribution Group 
+### Upgrade distribution groups 
 
 The admins can now upgrade the distribution groups into the recommended Microsoft 365 (previously O 365 groups) with few clicks. 
 
