@@ -60,7 +60,7 @@ The users now have a single click **Opt-in** toggle button available in the clas
 
 The admins can now get their queries resolved without going anywhere else. The support assistant feature allows users to resolve the queries without leaving the EAC window. In case the user is not satisfied with the provided solution, the user can even raise a ticket and register their issues. 
 
-### Educational Navigation Video 
+### Educational navigation video 
 
 An educational navigation video is now available on the very first tile "Training and Guide" in the new EAC portal. The video allows the users to understand the basic navigation of the new portal. You can also access the video [here](https://www.microsoft.com/videoplayer/embed/RE4FqDa.
 
