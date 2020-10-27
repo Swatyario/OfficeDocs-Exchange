@@ -42,7 +42,7 @@ Three types of groups that the admins can now create and manage are:
 
 ### Normal/Compact list view in groups 
 
-The admins can now choose to view the list of groups in normal or compact list view way. Compact list option allows the admins to view more entries per page. 
+The admins can now choose to view the list of groups in normal or compact list view. The compact list option allows the admins to view more entries per page. 
 
 ### Naming policy for groups 
 
