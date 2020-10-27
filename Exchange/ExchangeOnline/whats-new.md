@@ -50,7 +50,7 @@ The admins now have command over the Group naming policy. They can now add prefi
 
 ### Upgrade distribution groups 
 
-The admins can now upgrade the distribution groups into the recommended Microsoft 365 (previously O 365 groups) with few clicks. 
+The admins can now upgrade the distribution groups into the recommended Microsoft 365 groups (previously Office 365 groups) with a few clicks. 
 
 ### Opt-in/out 
 
