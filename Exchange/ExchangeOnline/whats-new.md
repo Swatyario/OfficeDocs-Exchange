@@ -66,7 +66,7 @@ An educational navigation video is now available on the very first tile ‘Train
 
 ### Recipients – MS Documents Updated 
 
-Going forward with helping the users with their queries related to new Exchange Admin Center portal, the Microsoft documentation is also complete for the high traffic pages under Recipients.
+In moving forward to help the users with their queries related to the new Exchange admin center portal, we have also completed the Microsoft documentation for high traffic pages under "Recipients".
 
 ## July 2020
 
