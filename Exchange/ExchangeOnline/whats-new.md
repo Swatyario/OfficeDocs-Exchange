@@ -28,7 +28,7 @@ For now, it is possible to switch back to the existing EAC (often called the "cl
 
 Here are some of the changes and new features we introduced in the modern EAC in September 2020. 
 
-### Groups – Creation and Management 
+### Groups – creation and management 
 
 The admins can now create groups from the modern EAC. Currently, they can create and manage Microsoft 365 Groups, distribution groups, and mail-enabled security groups.
 
