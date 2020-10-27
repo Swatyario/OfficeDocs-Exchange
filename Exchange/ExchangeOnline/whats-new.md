@@ -44,7 +44,7 @@ Three types of groups that the admins can now create and manage are:
 
 The admins can now choose to view the list of groups in normal or compact list view way. Compact list option allows the admins to view more entries per page. 
 
-### Naming Policy for Groups 
+### Naming policy for groups 
 
 The admins now have command over the Group naming policy. They can now add prefixes and suffixes for the future groups that will be created. They can also block specific words from being used in group names and aliases. 
 
