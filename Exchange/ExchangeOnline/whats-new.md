@@ -40,7 +40,7 @@ Three types of groups that the admins can now create and manage are:
 
 **Mail-enabled security groups**: They give the members access to various resources like OneDrive, SharePoint, and admin roles. 
 
-### Normal/Compact list view in Groups 
+### Normal/Compact list view in groups 
 
 The admins can now choose to view the list of groups in normal or compact list view way. Compact list option allows the admins to view more entries per page. 
 
