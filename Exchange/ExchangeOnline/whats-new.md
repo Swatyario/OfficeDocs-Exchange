@@ -64,7 +64,7 @@ The admins can now get their queries resolved without going anywhere else. The s
 
 An educational navigation video is now available on the very first tile ‘Training and Guide’ in the new EAC portal. The video allows the users to understand the basic navigation of the new portal. You can also access the video here: https://www.microsoft.com/en-us/videoplayer/embed/RE4FqDa. 
 
-### Recipients – MS Documents Updated 
+### Recipients – Microsoft documents updated 
 
 In moving forward to help the users with their queries related to the new Exchange admin center portal, we have also completed the Microsoft documentation for high traffic pages under "Recipients".
 
